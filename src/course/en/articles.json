@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Latte, What is it? ",
+    "displayTitle": "Latte, What is it? ",
+    "body": "<p><span style=\"color:#696969\">A latte is more correctly known as a “Cafe Latte“, though most large-scale commercial chains will make a cafe latte by default when you ask for a latte. The exception to this will be true Italian or other European restaurants, where ordering a “latte” will literally get you just a glass of steamed milk.</span></p><p><span style=\"color:#696969\">Latte is a 30mls of espresso with hot creamy milk finished with 1cm of milk cream.</span></p><p><span style=\"color:#696969\">The traditional Italian Caffe Latte&nbsp;is usually made in the person’s residence using a stovetop Moka Pot (Stovetop espresso&nbsp;maker). Unlike the American version, the milk is not steamed and frothed, but only heated. The hot milk is placed in a cup and the then the concentrated coffee from the Moka pot is poured into the milk.</span></p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d440a0fd27f0f1864ba904a",
+    "_parentId": "5d440a0fd27f0f1864ba9048",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Objective Type Assesment",
+    "displayTitle": "Objective Type Assesment",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d440a0fd27f0f1864ba904b",
+    "_parentId": "5d440a0fd27f0f1864ba9049",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "As-01",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": true,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Watch this video tutorial to make Cafe latte",
+    "displayTitle": "Watch this video tutorial to make Cafe latte",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9054",
+    "_parentId": "5d440a0fd27f0f1864ba9052",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/27f05e811980e2a239d12757f86bd636406e136c.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/7735ebd9d81196c3b39041e372ea54822dfb66e5.jpg",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Regular Preparation",
+    "displayTitle": "",
+    "body": "<ol><li><strong>Complete Single spout routine, then place a latte glass under the spout and press B1 (30 mls).</strong></li><li><strong>Then Complete milk texturing routine.</strong></li><li><strong>Pour textured milk over the espresso base ensuring to finish with 1 - 2cm of ‘milk crema’.</strong></li><li><strong>Serve on a tulip saucer with a teaspoon.</strong></li></ol>",
+    "_id": "5d440a0fd27f0f1864ba9057",
+    "_parentId": "5d440a0fd27f0f1864ba904e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<ol><li><strong>For a weak, use 15 mls (half a shot) of coffee. For an extra shot, use 60mls (2 shots) of coffee.</strong></li><li><strong>Takeaway</strong></li><li><strong>Small - Same procedure as regular, however serve into a small (8oz) takeaway coffee cup.</strong></li></ol>",
+    "_id": "5d440a0fd27f0f1864ba9058",
+    "_parentId": "5d440a0fd27f0f1864ba9050",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which of the following is the coffee latte ?",
+    "displayTitle": "Which of the following is the coffee latte ?",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9059",
+    "_parentId": "5d440a0fd27f0f1864ba9053",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/8bace0beb4112072b42ce47c02d9c737bc4e15aa.jpg",
+          "small": "course/en/assets/8bace0beb4112072b42ce47c02d9c737bc4e15aa.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/4aa19c7573e1de618ef1d9e6221aedaa2229c413.jpg",
+          "small": "course/en/assets/4aa19c7573e1de618ef1d9e6221aedaa2229c413.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/75b0a3bcb9d5a4736bc26301b62bca417bf00bf5.jpg",
+          "small": "course/en/assets/75b0a3bcb9d5a4736bc26301b62bca417bf00bf5.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/d8f97c50e9d761bb288d715cc263378e8301465e.jpg",
+          "small": "course/en/assets/d8f97c50e9d761bb288d715cc263378e8301465e.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 25,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct Answer</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect Answer</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which of the following ingredients is not needed for making coffee latte?",
+    "displayTitle": "Which of the following ingredients is not needed for making coffee latte?",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9062",
+    "_parentId": "5d440a0fd27f0f1864ba904f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Hot creamy milk",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Tulip Saucer",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Salt",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Coffee ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A Latte Cup",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Salt",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 25,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct Answer.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect Answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which of the following country is the place of origin of coffee latte?",
+    "displayTitle": "Which of the following country is the place of origin of coffee latte?",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9063",
+    "_parentId": "5d440a0fd27f0f1864ba904c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "America",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Japan",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Italy",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "France",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 25,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How much coffee is required to making coffee latte(1 shot) ?",
+    "displayTitle": "How much coffee is required to making coffee latte(1 shot) ?",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9064",
+    "_parentId": "5d440a0fd27f0f1864ba9051",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "100 mls",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "20 kg",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "30 mls",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "40 grams",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 25,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Ingredients for making Latte",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d440a0fd27f0f1864ba9065",
+    "_parentId": "5d440a0fd27f0f1864ba904d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_extensions": null,
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Coffee - 30mls (1 shot)",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/1fd574c6fb775e20597d984fe8a25610fc30b093.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Coffee - 30mls (1 shot)"
+      },
+      {
+        "title": "Hot creamy milk",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/f9ad963cd44b0d5fd51af78a45bbd4ed84ecde60.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Hot creamy milk"
+      },
+      {
+        "title": "Crockery",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/48ae71bb79c194c80dfda3cad0f660e3dd51d6c7.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Crockery"
+      },
+      {
+        "title": "Latte Cup",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/653ebcea2ed3f24d79fe12c587c142d5fbe4d79d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Latte Cup"
+      },
+      {
+        "title": "Teaspoon",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/670d61a952c8ed36f0ae81d0bedcf6cad147936d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Teaspoon"
+      },
+      {
+        "title": "Tulip Saucer",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/7f918f138407bf46dce1fbb7e710c88da30a6b96.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Tulip Saucer"
+      }
+    ]
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "                                                                               Result Slide",
+    "displayTitle": "                                                                               Result Slide",
+    "body": "",
+    "_id": "5d440e14d27f0f1864ba906d",
+    "_parentId": "5d440dd1d27f0f1864ba906c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "As-01",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "<p>Your score is {{score}} out of {{maxScore}} and percentage is {{scoreAsPercent}}%.</p>",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "<p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p>You didn't pass the assessment, achieving the score of {{scoreAsPercent}}%.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 60,
+        "feedback": "<p>You passed the assessment, achieving the score of {{scoreAsPercent}}%.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 100,
+        "feedback": "<p>Great work, You have done everything!</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Lets Begin the Course",
+    "displayTitle": "Lets Begin the Course",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d440a0fd27f0f1864ba9048",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/8bace0beb4112072b42ce47c02d9c737bc4e15aa.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Online Assesment",
+    "displayTitle": "Online Assesment",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "20 Mins",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d440a0fd27f0f1864ba9049",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a4b24399f4e1d8ed2b473284bc408e73ff8dabc8.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  }
+]
